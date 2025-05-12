@@ -69,4 +69,27 @@ Performance metrics for each model:
 - Matplotlib for visualization
 
 ## Installation and Usage
+Clone the repository
+git clone https://github.com/yourusername/airline-reviews-classification.git
+
+Install required packages
+pip install -r requirements.txt
+
+Run the main script
+python main.py
+
+
+## Future Work
+
+- Explore advanced deep learning techniques for sentiment analysis
+- Implement real-time analysis of streaming review data
+- Develop a user-friendly dashboard for airlines to monitor customer sentiment
+- Extend the analysis to include aspect-based sentiment analysis
+- Investigate transfer learning approaches with pre-trained language models
+
+## Author
+
+Yaswanth Sai Valluru  
+Department of Computer Science and Engineering  
+SRM University-AP Andhra Pradesh
 
